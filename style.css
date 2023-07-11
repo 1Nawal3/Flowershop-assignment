@@ -1,15 +1,15 @@
 .banti {
-    font-size: 70px;
+    font-size: 50px;
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    flex-shrink: 0;
     color: #272727;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: normal;
     line-height: normal;
 }
-
+.bancont{
+     max-width: 400px;
+}
 .banner {
     background-color: #e554731b;
     padding: 30px 30px 0px 150px;
@@ -21,7 +21,7 @@
 }
 
 .profile-pic {
-    width: 600px;
+    width: 400px;
     height: 500px;
 }
 
@@ -30,6 +30,14 @@
     font-size: 18px;
     line-height: 30px;
     display: flex;
-    width: 600px;
+    width: 550px;
     flex-direction: column;
+}
+.btn{
+    color: white;
+font-size: 20px;
+font-weight: 700;
+background-color: #e55473f7;
+padding: 5px 10px;
+border: 0;
 }
