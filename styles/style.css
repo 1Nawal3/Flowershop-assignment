@@ -161,7 +161,8 @@
     justify-content: space-around;
     background: rgba(229, 84, 115, 0.05);
     padding: 50px 150px 0px 350px;
-}   
+}
+
 .sale .saletitle {
     font-size: 50px;
     font-weight: 800;
@@ -191,27 +192,32 @@
     font-weight: 250;
     margin: 0px 0px 0px 250px;
 }
-.sale .saleimg{
-    padding: 100px 0px 0px 0px;
+
+.sale .saleimg {
+    padding: 50px 0px 0px 50px;
     width: 600px;
 }
-.insta{
+
+.insta {
     width: 1900px;
     height: 1150px;
     padding: 150px 250px 70px 250px;
 }
+
 .instagram {
     max-width: 650px;
     padding: 0px 0px 50px 650px;
 }
-.intitle{
+
+.intitle {
     font-size: 50px;
     color: black;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     margin-bottom: 30px;
 }
-.indes{
+
+.indes {
     color: rgba(39, 39, 39, 0.60);
     font-size: 20px;
     width: 700px;
@@ -219,29 +225,39 @@
     text-align: center;
     margin-bottom: 30px;
 }
-.images{
+
+.images {
     padding: 0px 0px 0px 250px;
 }
- .instaimg{
+
+.instaimg {
     padding-right: 30px;
 }
+
 .subscribe {
-    margin-top: 100px;
-    max-width: 650px;
-    padding: 0px 0px 50px 650px;
+    background: url('../Flower\ Asset/rectangle9.png'), lightgray no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 100px 100px 0px 250px; 
+    width: 1500px;
+    height: 445px;
 }
-.subtitle{
+
+.subtitle {
     font-size: 50px;
-    color: #272727;;
+    color: #272727;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    margin-bottom: 30px;
-}
-.subdes{
+    padding: 80px 0px 0px 30px;
+} 
+
+.subdes {
     color: rgba(39, 39, 39, 0.60);
     font-size: 22px;
-    width: 640px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     margin-bottom: 30px;
+}
+
+.t{
 }
